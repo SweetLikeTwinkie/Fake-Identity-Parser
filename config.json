@@ -1,0 +1,11 @@
+{
+  "db_host": "172.20.0.2",
+  "db_user": "root",
+  "db_pass": "qwer1234",
+  "db_name": "fake_identities_db",
+  "db_port": 3306,
+  "request_delay_sec": 2,
+  "max_http_retries": 3,
+  "log_file": "identity_parser.log",
+  "log_level": "INFO"
+} 
